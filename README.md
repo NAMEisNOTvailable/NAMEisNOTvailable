@@ -20,7 +20,7 @@ My strongest current work is at the intersection of cyber security and AI safety
 | [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English benchmark design, cross-lingual prompt-injection analysis, and refusal/compliance scoring |
 | [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | CIFAR-10 training, ResNet/AlexNet comparison, augmentation, and evaluation diagnostics |
 | [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | MLP experiments, SMOTE, AUC-ROC, F1, and metric-aware model evaluation |
-| [RNN/LSTM Time-Series Forecasting](https://github.com/NAMEisNOTvailable/rnn-lstm-stock-forecasting) | Financial sequence modelling | RNN/LSTM pipelines, forecasting metrics, and structured model comparison |
+| [GuardedIM Security Assessment](https://github.com/NAMEisNOTvailable/guardedim-security-assessment) | Secure messaging and secure programming | Python/Go encrypted messaging prototype, RSA/AES-GCM workflow, WireGuard-oriented server design, vulnerability analysis, and mitigation documentation |
 | [Brinelume Commerce Operations](https://brinelume.com) | Live e-commerce operations | WordPress/WooCommerce, product catalogue architecture, SEO content, checkout UX, and customer-flow improvements |
 
 ## Technical Strengths
