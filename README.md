@@ -45,3 +45,7 @@ I am looking for graduate or junior roles where I can combine cyber security, AI
 
 - GitHub: https://github.com/NAMEisNOTvailable
 - Website: https://brinelume.com
+
+## License
+
+This profile README contains personal portfolio copy and contact information. See [LICENSE](LICENSE) for reuse restrictions.
