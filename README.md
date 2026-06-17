@@ -8,9 +8,7 @@ Website: https://brinelume.com
 
 ## About
 
-I am a Master of Cyber Security graduate from the University of Adelaide, focused on AI safety, LLM security evaluation, security testing, and applied machine learning.
-
-My strongest current work is at the intersection of cyber security and AI safety: building reproducible evaluation pipelines, designing coverage-balanced prompt-injection datasets, analysing multilingual model behaviour, and translating ambiguous risks into clear metrics, findings, and mitigations.
+I am a Master of Cyber Security graduate from the University of Adelaide. This profile highlights work that turns security and machine-learning questions into inspectable datasets, scripts, metrics, demos, and mitigation notes.
 
 ## Featured Projects
 
@@ -32,20 +30,10 @@ My strongest current work is at the intersection of cyber security and AI safety
 
 ## Current Direction
 
-I am looking for graduate or junior roles where I can combine cyber security, AI safety, security testing, and analytical problem-solving. I am especially interested in:
-
-- AI safety / LLM security evaluation
-- Cyber security analysis or security testing
-- Vulnerability assessment and secure software review
-- Machine learning or data analysis with security relevance
-- Technical roles requiring clear documentation, reproducible experiments, and practical recommendations
+I am looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving.
 
 ## Contact
 
 - Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
 - GitHub: https://github.com/NAMEisNOTvailable
 - Website: https://brinelume.com
-
-## License
-
-This profile README contains personal portfolio copy and contact information. See [LICENSE](LICENSE) for reuse restrictions.
