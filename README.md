@@ -26,6 +26,6 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 
 I am currently looking for graduate or junior roles in AI safety, LLM security, cyber security analysis, or security testing. I am available for full-time work across Australia.
 
-[Email](mailto:Hongyu-Su@outlook.com) ·
-[Website](https://brinelume.com) ·
-[Repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
+- Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
+- Website: [https://brinelume.com/](https://brinelume.com/)
+- Repositories: [https://github.com/NAMEisNOTvailable?tab=repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
