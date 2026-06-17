@@ -24,7 +24,7 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 
 ## Current Direction
 
-I am looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving. I am available for full-time work across Australia.
+I am currently looking for graduate or junior roles. I am available for full-time work across Australia.
 
 ## Contact
 
