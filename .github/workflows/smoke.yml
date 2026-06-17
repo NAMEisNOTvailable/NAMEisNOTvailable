@@ -1,0 +1,41 @@
+name: Smoke tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  readme-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate profile README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          if not text.strip():
+              raise SystemExit("README.md is empty")
+
+          conflict_markers = ("<<<<<<<", "=======", ">>>>>>>")
+          found = [marker for marker in conflict_markers if marker in text]
+          if found:
+              raise SystemExit(f"README.md contains merge conflict markers: {found}")
+
+          print("README smoke check passed.")
+          PY
