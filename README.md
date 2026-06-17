@@ -8,14 +8,6 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 - Website: [https://brinelume.com/](https://brinelume.com/)
 - Repositories: [https://github.com/NAMEisNOTvailable?tab=repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
 
-## Evidence Snapshot
-
-| Signal | Evidence |
-| --- | --- |
-| 1,500 | Matched Mandarin-English prompt pairs for cross-lingual LLM security evaluation |
-| 2 | Reproducible protocol flaws in the GuardedIM security assessment lab |
-| Python + Go | Python tests, local PoC demos, and Go checks across the security assessment work |
-
 ## Featured Projects
 
 | Project | Focus | Evidence |
