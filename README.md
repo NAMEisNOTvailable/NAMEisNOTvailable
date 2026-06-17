@@ -8,12 +8,20 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 - Website: [https://brinelume.com/](https://brinelume.com/)
 - Repositories: [https://github.com/NAMEisNOTvailable?tab=repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
 
+## Evidence Snapshot
+
+| Signal | Evidence |
+| --- | --- |
+| 1,500 | Matched Mandarin-English prompt pairs for cross-lingual LLM security evaluation |
+| 2 | Reproducible protocol flaws in the GuardedIM security assessment lab |
+| Python + Go | Python tests, local PoC demos, and Go checks across the security assessment work |
+
 ## Featured Projects
 
 | Project | Focus | Evidence |
 | --- | --- | --- |
-| [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Coverage-balanced dataset generation with deterministic rules, deduplication, and Chinese-first adversarial prompt design |
 | [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English prompt-injection benchmark with refusal/compliance scoring and cross-lingual risk findings |
+| [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Coverage-balanced dataset generation with deterministic rules, deduplication, and Chinese-first adversarial prompt design |
 | [GuardedIM Security Assessment](https://github.com/NAMEisNOTvailable/guardedim-security-assessment) | Secure messaging security assessment | Reproducible protocol flaws, PoC demos, Python/Go test coverage, and mitigation notes for encrypted message handling |
 | [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | CI-tested PyTorch workflow comparing pretrained ResNet-18 fine-tuning with an AlexNet-style baseline |
 | [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | CI-tested TensorFlow workflow with SMOTE, validation-based model selection, threshold tuning, and metric-aware reporting |
