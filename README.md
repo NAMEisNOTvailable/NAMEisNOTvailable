@@ -2,9 +2,7 @@
 
 Cyber Security Graduate | AI Safety and LLM Security | Security Testing | Machine Learning Evaluation
 
-Adelaide, South Australia  
-Available for full-time work in Australia  
-Website: https://brinelume.com
+Adelaide, South Australia
 
 ## About
 
@@ -30,10 +28,9 @@ I am a Master of Cyber Security graduate from the University of Adelaide. The pr
 
 ## Current Direction
 
-I am looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving.
+I am available for full-time work in Australia and looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving.
 
 ## Contact
 
 - Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
-- GitHub: https://github.com/NAMEisNOTvailable
 - Website: https://brinelume.com
