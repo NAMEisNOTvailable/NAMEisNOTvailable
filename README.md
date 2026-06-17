@@ -43,6 +43,7 @@ I am looking for graduate or junior roles where I can combine cyber security, AI
 
 ## Contact
 
+- Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
 - GitHub: https://github.com/NAMEisNOTvailable
 - Website: https://brinelume.com
 
