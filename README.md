@@ -14,22 +14,21 @@ My strongest current work is at the intersection of cyber security and AI safety
 
 ## Featured Projects
 
-| Project | Focus | What It Shows |
+| Project | Focus | Outcome / Evidence |
 | --- | --- | --- |
-| [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Deterministic generation, DSL-driven coverage, deduplication, and Chinese-first adversarial prompt design |
-| [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English benchmark design, cross-lingual prompt-injection analysis, and refusal/compliance scoring |
-| [GuardedIM Security Assessment](https://github.com/NAMEisNOTvailable/guardedim-security-assessment) | Secure messaging security assessment | Local secure-messaging assessment lab with reproducible protocol flaws, Python/Go test coverage, PoC demos, and mitigation notes for RSA key exchange and encrypted message framing |
-| [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | CIFAR-10 training, ResNet/AlexNet comparison, augmentation, and evaluation diagnostics |
-| [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | MLP experiments, SMOTE, AUC-ROC, F1, and metric-aware model evaluation |
-| [Brinelume Commerce Operations](https://brinelume.com) | Live e-commerce operations | WordPress/WooCommerce, product catalogue architecture, SEO content, checkout UX, and customer-flow improvements |
+| [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Coverage-balanced dataset generation with deterministic rules, deduplication, and Chinese-first adversarial prompt design |
+| [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English prompt-injection benchmark with refusal/compliance scoring and cross-lingual risk findings |
+| [GuardedIM Security Assessment](https://github.com/NAMEisNOTvailable/guardedim-security-assessment) | Secure messaging security assessment | Reproducible protocol flaws, PoC demos, Python/Go test coverage, and mitigation notes for encrypted message handling |
+| [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | CI-tested PyTorch workflow comparing pretrained ResNet-18 fine-tuning with an AlexNet-style baseline |
+| [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | CI-tested TensorFlow workflow with SMOTE, validation-based model selection, threshold tuning, and metric-aware reporting |
+| [Brinelume Commerce Operations](https://brinelume.com) | Live e-commerce operations | Practical WordPress/WooCommerce operations, product catalogue structure, SEO content, and checkout-flow improvements |
 
 ## Technical Strengths
 
-- AI safety and LLM security: prompt-injection research, multilingual robustness evaluation, benchmark design, taxonomy design, refusal/compliance scoring.
-- Cyber security: web and network security, vulnerability assessment, secure communications review, OSINT/reconnaissance, controlled exploit analysis, threat modelling.
-- Security tooling: Linux, Kali Linux, Burp Suite, Wireshark, nmap, Ghidra, GDB, Hashcat, Snyk, Bandit, PyLint, SonarQube, Pynguin, Atheris, Valgrind.
-- Machine learning and data analysis: Python, R, TensorFlow/Keras, scikit-learn, NumPy, NLTK, MLP, CNN, RNN/LSTM, ARIMA/ARDL, experiment tracking, evaluation metrics.
-- Web and operations: HTML/CSS, WordPress, WooCommerce, PHP customisation, SEO content architecture, product catalogue and checkout workflows.
+- Security: vulnerability assessment, secure communications review, threat modelling, web/network security, Linux, Burp Suite, Wireshark, nmap.
+- AI / LLM evaluation: prompt-injection testing, multilingual robustness analysis, benchmark design, taxonomy design, refusal/compliance scoring.
+- ML / data: Python, TensorFlow/Keras, PyTorch, scikit-learn, NumPy, model evaluation, experiment tracking, tabular and sequence modelling.
+- Web / operations: WordPress, WooCommerce, HTML/CSS, SEO content architecture, product catalogue structure, checkout and customer-flow improvements.
 
 ## Current Direction
 
