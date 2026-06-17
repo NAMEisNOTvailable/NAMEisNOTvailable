@@ -2,11 +2,7 @@
 
 Cyber Security Graduate | AI Safety and LLM Security | Security Testing | Machine Learning Evaluation
 
-Adelaide, South Australia
-
-## About
-
-I am a Master of Cyber Security graduate from the University of Adelaide. The projects below were completed during my university studies and focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
+I am a Master of Cyber Security graduate from the University of Adelaide, currently based in Adelaide, Australia. The projects below were completed during my university studies and focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
 
 ## Featured Projects
 
@@ -28,7 +24,7 @@ I am a Master of Cyber Security graduate from the University of Adelaide. The pr
 
 ## Current Direction
 
-I am available for full-time work in Australia and looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving.
+I am looking for graduate or junior roles that value reproducible evidence, practical security assessment, clear technical documentation, and analytical problem-solving. I am available for full-time work across Australia.
 
 ## Contact
 
