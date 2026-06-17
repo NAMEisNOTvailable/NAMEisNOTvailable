@@ -8,7 +8,7 @@ Website: https://brinelume.com
 
 ## About
 
-I am a Master of Cyber Security graduate from the University of Adelaide. The projects below focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
+I am a Master of Cyber Security graduate from the University of Adelaide. The projects below were completed during my university studies and focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
 
 ## Featured Projects
 
