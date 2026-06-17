@@ -1,16 +1,37 @@
-# Hongyu Su
+<div align="center">
 
-Cyber Security Graduate | AI Safety and LLM Security | Security Testing | Machine Learning Evaluation
+<h1>Hongyu Su</h1>
 
-Adelaide, South Australia  
-Available for full-time work in Australia  
-Website: https://brinelume.com
+<p><strong>Cyber Security Graduate | AI Safety and LLM Security | Security Testing | Machine Learning Evaluation</strong></p>
 
-## About
+<p>Adelaide, South Australia<br>Available for full-time work in Australia</p>
+
+<p>
+  <a href="mailto:Hongyu-Su@outlook.com">Email</a> |
+  <a href="https://brinelume.com">Website</a> |
+  <a href="https://github.com/NAMEisNOTvailable">GitHub</a>
+</p>
+
+<p>
+  <img alt="AI Safety" src="https://img.shields.io/badge/AI%20Safety-LLM%20Security-0f766e">
+  <img alt="Cyber Security" src="https://img.shields.io/badge/Cyber%20Security-Security%20Testing-1d4ed8">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Evaluation-7c3aed">
+  <img alt="Location" src="https://img.shields.io/badge/Adelaide-Australia-475569">
+</p>
+
+</div>
+
+## Profile
 
 I am a Master of Cyber Security graduate from the University of Adelaide, focused on AI safety, LLM security evaluation, security testing, and applied machine learning.
 
 My strongest current work is at the intersection of cyber security and AI safety: building reproducible evaluation pipelines, designing coverage-balanced prompt-injection datasets, analysing multilingual model behaviour, and translating ambiguous risks into clear metrics, findings, and mitigations.
+
+## What I Build
+
+| Security Evaluation | AI / LLM Safety | ML Evaluation |
+| --- | --- | --- |
+| Vulnerability assessment, secure communication review, threat modelling, and reproducible security findings. | Prompt-injection datasets, multilingual LLM behaviour analysis, refusal/compliance scoring, and benchmark design. | CI-tested machine-learning experiments with clear metrics, baselines, validation/test separation, and result artifacts. |
 
 ## Featured Projects
 
@@ -25,10 +46,12 @@ My strongest current work is at the intersection of cyber security and AI safety
 
 ## Technical Strengths
 
-- Security: vulnerability assessment, secure communications review, threat modelling, web/network security, Linux, Burp Suite, Wireshark, nmap.
-- AI / LLM evaluation: prompt-injection testing, multilingual robustness analysis, benchmark design, taxonomy design, refusal/compliance scoring.
-- ML / data: Python, TensorFlow/Keras, PyTorch, scikit-learn, NumPy, model evaluation, experiment tracking, tabular and sequence modelling.
-- Web / operations: WordPress, WooCommerce, HTML/CSS, SEO content architecture, product catalogue structure, checkout and customer-flow improvements.
+| Area | Tools and Methods |
+| --- | --- |
+| Security | Vulnerability assessment, secure communications review, threat modelling, web/network security, Linux, Burp Suite, Wireshark, nmap |
+| AI / LLM evaluation | Prompt-injection testing, multilingual robustness analysis, benchmark design, taxonomy design, refusal/compliance scoring |
+| ML / data | Python, TensorFlow/Keras, PyTorch, scikit-learn, NumPy, model evaluation, experiment tracking, tabular and sequence modelling |
+| Web / operations | WordPress, WooCommerce, HTML/CSS, SEO content architecture, product catalogue structure, checkout and customer-flow improvements |
 
 ## Current Direction
 
@@ -43,8 +66,8 @@ I am looking for graduate or junior roles where I can combine cyber security, AI
 ## Contact
 
 - Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
-- GitHub: https://github.com/NAMEisNOTvailable
-- Website: https://brinelume.com
+- GitHub: [github.com/NAMEisNOTvailable](https://github.com/NAMEisNOTvailable)
+- Website: [brinelume.com](https://brinelume.com)
 
 ## License
 
