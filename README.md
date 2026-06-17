@@ -1,12 +1,12 @@
 # Hongyu Su
 
-Cyber Security Graduate | AI Safety and LLM Security | Security Testing | Machine Learning Evaluation
+Cyber Security · LLM Security · AI Safety Evaluation
 
 I am a Master of Cyber Security graduate from the University of Adelaide, currently based in Adelaide, Australia. The projects below were completed during my university studies and focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
 
 ## Featured Projects
 
-| Project | Focus | Outcome / Evidence |
+| Project | Focus | Evidence |
 | --- | --- | --- |
 | [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Coverage-balanced dataset generation with deterministic rules, deduplication, and Chinese-first adversarial prompt design |
 | [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English prompt-injection benchmark with refusal/compliance scoring and cross-lingual risk findings |
@@ -24,9 +24,8 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 
 ## Current Direction
 
-I am currently looking for graduate or junior roles. I am available for full-time work across Australia.
+I am currently looking for graduate or junior roles in AI safety, LLM security, cyber security analysis, or security testing. I am available for full-time work across Australia.
 
-## Contact
-
-- Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
-- Website: https://brinelume.com
+[Email](mailto:Hongyu-Su@outlook.com) ·
+[Website](https://brinelume.com) ·
+[Repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
