@@ -14,9 +14,9 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 | [LLM Safety Evaluation](https://github.com/NAMEisNOTvailable/llm-safety-evaluation) | Multilingual LLM security evaluation | Mandarin-English prompt-injection benchmark with refusal/compliance scoring and cross-lingual risk findings |
 | [LLM Defend](https://github.com/NAMEisNOTvailable/llm-defend) | Chinese prompt-injection dataset composer | Coverage-balanced dataset generation with deterministic rules, deduplication, and Chinese-first adversarial prompt design |
 | [GuardedIM Security Assessment](https://github.com/NAMEisNOTvailable/guardedim-security-assessment) | Secure messaging security assessment | Reproducible protocol flaws, PoC demos, Python/Go test coverage, and mitigation notes for encrypted message handling |
-| [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | CI-tested TensorFlow workflow with SMOTE, validation-based model selection, threshold tuning, and metric-aware reporting |
-| [RNN/LSTM Stock Forecasting](https://github.com/NAMEisNOTvailable/rnn-lstm-stock-forecasting) | Financial time-series evaluation | RNN/LSTM forecasting with a persistence baseline, RMSE/sMAPE/MASE/RMSLE reporting, tested helpers, result artifacts, and CI checks |
-| [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | CI-tested PyTorch workflow comparing pretrained ResNet-18 fine-tuning with an AlexNet-style baseline |
+| [Medical MLP Classification](https://github.com/NAMEisNOTvailable/mlp-medical-classification) | Imbalanced medical classification | TensorFlow workflow with automated checks, SMOTE, validation-based model selection, threshold tuning, and metric-aware reporting |
+| [RNN/LSTM Stock Forecasting](https://github.com/NAMEisNOTvailable/rnn-lstm-stock-forecasting) | Financial time-series evaluation | RNN/LSTM forecasting with a persistence baseline, RMSE/sMAPE/MASE/RMSLE reporting, tested helpers, result artifacts, and automated result checks |
+| [CNN Image Classification](https://github.com/NAMEisNOTvailable/cnn-cifar10-classification) | Computer vision model comparison | PyTorch workflow with automated checks, pretrained ResNet-18 fine-tuning, and an AlexNet-style baseline |
 
 ## Technical Strengths
 
