@@ -5,7 +5,6 @@ Cyber Security | LLM Security | AI Safety Evaluation
 I am a Master of Cyber Security graduate from the University of Adelaide, currently based in Adelaide, Australia. The projects below were completed during my university studies and focus on reproducible evaluation workflows, clear metrics, runnable security demos, and practical mitigation notes.
 
 - Email: [Hongyu-Su@outlook.com](mailto:Hongyu-Su@outlook.com)
-- Website: [https://brinelume.com/](https://brinelume.com/)
 - Repositories: [https://github.com/NAMEisNOTvailable?tab=repositories](https://github.com/NAMEisNOTvailable?tab=repositories)
 
 ## Featured Projects
@@ -25,6 +24,10 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 - AI / LLM evaluation: prompt-injection testing, multilingual robustness analysis, benchmark design, taxonomy design, refusal/compliance scoring.
 - ML / data: Python, TensorFlow/Keras, PyTorch, scikit-learn, NumPy, model evaluation, experiment tracking, tabular and sequence modelling.
 - Web / operations: WordPress, WooCommerce, HTML/CSS, SEO content architecture, product catalogue structure, checkout and customer-flow improvements.
+
+## Additional Practical Work
+
+I also created, maintain, and operate [Brinelume](https://brinelume.com/), a live e-commerce website. This work includes WordPress/WooCommerce site maintenance, product catalogue updates, SEO content structure, and checkout/customer-flow improvements.
 
 ## Current Direction
 
