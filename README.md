@@ -27,7 +27,7 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 
 ## Additional Practical Work
 
-I also created, maintain, and operate [Brinelume](https://brinelume.com/), a live e-commerce website. This work includes WordPress/WooCommerce site maintenance, product catalogue updates, SEO content structure, and checkout/customer-flow improvements.
+I also built, maintain, and operate [Brinelume](https://brinelume.com/), a live e-commerce website for bath, body, home gifting, custom orders, and wholesale enquiries. This work includes WordPress/WooCommerce setup, product catalogue and variation management, checkout and customer-flow improvements, policy pages, SEO-oriented copy, and ongoing site operations.
 
 ## Current Direction
 
