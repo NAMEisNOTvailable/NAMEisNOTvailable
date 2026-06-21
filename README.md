@@ -28,7 +28,3 @@ I am a Master of Cyber Security graduate from the University of Adelaide, curren
 ## Additional Practical Work
 
 I also built, maintain, and operate [Brinelume](https://brinelume.com/), a live e-commerce website for bath, body, home gifting, custom orders, and wholesale enquiries. This work includes WordPress/WooCommerce setup, product catalogue and variation management, checkout and customer-flow improvements, policy pages, SEO-oriented copy, and ongoing site operations.
-
-## Current Direction
-
-I am currently looking for graduate or junior roles in AI safety, LLM security, cyber security analysis, security testing, or data-focused technical work. I am available for full-time work across Australia.
